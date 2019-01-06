@@ -18,7 +18,7 @@ end
 
 def find_the_cheese(array)
   array.find do |cheeses| 
-    cheeses = ["cheddar", "gouda", "camembert"] 
+    cheese == "cheddar" || cheese == "gouda" || cheese == "camembert"
     end 
 end 
 
